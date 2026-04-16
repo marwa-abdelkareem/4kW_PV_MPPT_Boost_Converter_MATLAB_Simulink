@@ -1,14 +1,11 @@
 # Solar PV MPPT Boost Converter (4kW) – MATLAB/Simulink
 
-<p align="center">
-  <img src="4kW Solar Array with Boost Converter Complete MPPT Simulation in Simulink.png" width="850"/>
-</p>
-
-<p align="center">
-  <b>Design and Simulation of a Boost Converter with MPPT for Solar PV Applications</b>
-</p>
-
 ---
+
+<p align="center">
+  <img src="diagram2.png" width="700"/>
+</p>
+
 
 ##  Project Overview
 
@@ -39,9 +36,15 @@ This project presents a complete design and simulation of a **4kW solar PV syste
 
 ##  Full System Simulation
 
+
 <p align="center">
-  <img src="diagram2.png" width="700"/>
+  <img src="4kW Solar Array with Boost Converter Complete MPPT Simulation in Simulink.png" width="850"/>
 </p>
+
+<p align="center">
+  <b>Design and Simulation of a Boost Converter with MPPT for Solar PV Applications</b>
+</p>
+
 
 ---
 
